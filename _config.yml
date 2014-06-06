@@ -1,0 +1,11 @@
+# Site settings
+name: "Evan Cummings"
+title: "- Evan Cummings -"
+email: emcummings@gmail.com
+description: "Sweet description goes here"
+baseurl: ""
+url: "http://evancummings.com"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
