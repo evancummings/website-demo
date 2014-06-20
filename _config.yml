@@ -5,6 +5,7 @@ email: emcummings@gmail.com
 description: "Sweet description goes here"
 baseurl: ""
 url: "http://evancummings.com"
+tagline: "Lover not a fighter"
 
 # Build settings
 markdown: kramdown
