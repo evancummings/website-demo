@@ -6,6 +6,7 @@ description: "Sweet description goes here"
 baseurl: ""
 url: "http://evancummings.com"
 tagline: "Lover not a fighter"
+avatar: "images/site/evan.jpg"
 
 # Build settings
 markdown: kramdown
