@@ -1,0 +1,14 @@
+- name: windows server
+  class: windows
+
+- name: linux/ubuntu
+  class: linux
+
+- name: postgres
+  class: postgres
+
+- name: mysql
+  class: mysql
+
+- name: sql server
+  class: sqlserver

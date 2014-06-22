@@ -5,9 +5,8 @@ email: emcummings@gmail.com
 description: "Sweet description goes here"
 baseurl: ""
 url: "http://evancummings.com"
-twitter_id: "480071863058452480"
-tagline: "I'm that guy with the pony tail"
+tagline: "Lover not a fighter"
+
 # Build settings
 markdown: kramdown
 permalinks: pretty
-

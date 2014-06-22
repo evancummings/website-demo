@@ -1,0 +1,11 @@
+- name: ruby on rails | sinatra
+  class: sinatra
+
+- name: asp.net mvc | asp.net webforms
+  class: aspnet
+
+- name: jquery | emberjs | bootstrap | foundation
+  class: jquery
+
+- name: Android | IOS | PhoneGap
+  class: android

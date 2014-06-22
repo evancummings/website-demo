@@ -1,0 +1,11 @@
+- name: ruby
+  class: ruby
+
+- name: c#  |  Visual Basic
+  class: net
+
+- name: javascript |  html  |  css
+  class: html5
+
+- name: java  |  objective-c
+  class: mobile-lang
